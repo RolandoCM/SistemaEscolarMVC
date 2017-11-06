@@ -3,7 +3,7 @@
  * Clase para hacer una conexión a la base de datos
  * para reurilizarla en todos los modulos que utilicen acceso a los
  * datos almacenados*/
-class Connection 
+class ConectionDB
 {
     public static function conection()
     {
